@@ -1,0 +1,1 @@
+- [x] Create folder 'data/' to feed the future analysis
