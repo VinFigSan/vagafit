@@ -3,7 +3,7 @@
 
 * [x] Warehouse decidido: Snowflake. Criação da conta movida para mais tarde no projeto para um melhor uso do teste gratuito
 * [x] BFF (Backend For Frontend) decidido: Node
-* [x] Feedbacks: Perguntar para amigos e mentores da área de BI regularmente ao fim de cada semana do projeto
+* [x] Rotina de feedback definida: ao fim de cada semana, pedir feedback a amigos e mentores da área de BI
 * [x] Validação do Docker Compose, Desktop e Engine: todos funcionando no ambiente de desenvolvimento
 * [x] Versões base do projeto:
    * [x] Python: 3.14
@@ -16,7 +16,9 @@
 # Semana 1:
 
 * [ ] 
+* [ ] Coletar feedback da semana 1 com amigos e mentores da área de BI
 
 # Semana 2:
 
 * [ ] Criação da conta do Snowflake com as seguintes configurações (X-Small, auto-suspend de 1 a 5 minutos, resource monitor, sem cartão)
+* [ ] Coletar feedback da semana 2 com amigos e mentores da área de BI
